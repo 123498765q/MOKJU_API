@@ -1,0 +1,14 @@
+C:\Users\Tomas Zaremba\source\repos\MOKJU_API\MOKJU_API\bin\Debug\netcoreapp2.1\MOKJU_API.deps.json
+C:\Users\Tomas Zaremba\source\repos\MOKJU_API\MOKJU_API\bin\Debug\netcoreapp2.1\MOKJU_API.runtimeconfig.json
+C:\Users\Tomas Zaremba\source\repos\MOKJU_API\MOKJU_API\bin\Debug\netcoreapp2.1\MOKJU_API.runtimeconfig.dev.json
+C:\Users\Tomas Zaremba\source\repos\MOKJU_API\MOKJU_API\bin\Debug\netcoreapp2.1\MOKJU_API.dll
+C:\Users\Tomas Zaremba\source\repos\MOKJU_API\MOKJU_API\obj\Debug\netcoreapp2.1\MOKJU_API.csprojAssemblyReference.cache
+C:\Users\Tomas Zaremba\source\repos\MOKJU_API\MOKJU_API\obj\Debug\netcoreapp2.1\MOKJU_API.csproj.CoreCompileInputs.cache
+C:\Users\Tomas Zaremba\source\repos\MOKJU_API\MOKJU_API\obj\Debug\netcoreapp2.1\MOKJU_API.RazorAssemblyInfo.cache
+C:\Users\Tomas Zaremba\source\repos\MOKJU_API\MOKJU_API\obj\Debug\netcoreapp2.1\MOKJU_API.RazorAssemblyInfo.cs
+C:\Users\Tomas Zaremba\source\repos\MOKJU_API\MOKJU_API\obj\Debug\netcoreapp2.1\MOKJU_API.AssemblyInfoInputs.cache
+C:\Users\Tomas Zaremba\source\repos\MOKJU_API\MOKJU_API\obj\Debug\netcoreapp2.1\MOKJU_API.AssemblyInfo.cs
+C:\Users\Tomas Zaremba\source\repos\MOKJU_API\MOKJU_API\obj\Debug\netcoreapp2.1\MOKJU_API.RazorTargetAssemblyInfo.cache
+C:\Users\Tomas Zaremba\source\repos\MOKJU_API\MOKJU_API\bin\Debug\netcoreapp2.1\MOKJU_API.pdb
+C:\Users\Tomas Zaremba\source\repos\MOKJU_API\MOKJU_API\obj\Debug\netcoreapp2.1\MOKJU_API.dll
+C:\Users\Tomas Zaremba\source\repos\MOKJU_API\MOKJU_API\obj\Debug\netcoreapp2.1\MOKJU_API.pdb
